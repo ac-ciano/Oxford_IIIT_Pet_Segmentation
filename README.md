@@ -83,10 +83,3 @@ Open `notebooks/01_unet_training.ipynb` and run all cells.
 
 To evaluate model robustness:
 Run `notebooks/04_robustness_analysis.ipynb`.
-
-## 📊 Results
-
-| Model | IoU | Dice Score |
-|-------|-----|------------|
-| U-Net (Baseline) | 0.85 | 0.91 |
-| CLIP-Based | **0.89** | **0.94** |
